@@ -1,0 +1,29 @@
+.card{
+   box-shadow: 0 4px 8px 0 purple;
+   max-width: 300px; 
+   margin: auto;
+   text-align: center;
+   font-family: Arial, helvetica, sans-serif;
+   border-radius: 10px 10px;
+}
+.title {
+    color: purple;
+    font-size: 18px;
+}
+button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: purple;
+    background-color: black;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;    
+}
+a{
+    text-decoration: none;
+    font-size: 28px;
+    color: black;
+}
